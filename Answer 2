@@ -1,0 +1,5 @@
+Don't use shape Of use shape
+useState function was wrong defined at place of state name.
+Second arguments of memo was missing
+propTypes of array checking should be propType.arrayOf
+Default value of item should be empty array([]);
